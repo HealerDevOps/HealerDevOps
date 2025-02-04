@@ -2,24 +2,34 @@
 
 <!-- [![BenjaminGrayDev Nuxter profile](https://nuxters.nuxt.com/card/BenjaminGrayDev/og.png)](https://nuxters.nuxt.com/BenjaminGrayDev) -->
 
-____________________________________________________
+<p align="center">
+  <a href="" >
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Mobile%20Developer;GIS%20Developer;WEB3%20Developer;&font=Pacifico&center=true&width=850&height=120&color=00A3E0&vCenter=true&size=45">
+  </a>
+</p>
+
+
+</br>
+
+________________________________________________________
 
 </br>
 
 <div align="center" style="margin: 20px 0;">
-  <h3 style="font-size: 1.8rem; color: #2D88FF; margin-bottom: 10px;">:wrench: <strong>Languages & Tools</strong></h3>
+  <h1 style="font-size: 1.8rem; color: #2D88FF; margin-bottom: 10px;">:wrench: <strong>Languages & Tools</strong></h1>
+    </br></br>
 
-  <sup style="color: #4A5568; font-size: 1.2rem;">Programming Languages</sup></br>
+   <h2>Programming Language</h2>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=FFFFFF" alt="TypeScript" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Python-%233462A6.svg?style=flat-square&logo=Python&logoColor=white" alt="Python" style="margin: 5px; height: 30px;">
-  <img src="https://img.shields.io/badge/Java-%23CC342D.svg?style=flat-square&logo=java&logoColor=white" alt="Java" style="margin: 5px; height: 30px;">
+  <img src="https://img.shields.io/badge/Java-%23CC342D.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/C-%234285F4.svg?style=flat-square&logo=c&logoColor=white" alt="C" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Rust-%23DEA584.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Solidity-%232E2E2E.svg?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" style="margin: 5px; height: 30px;">
 
   </br></br>
-  <sup style="color: #4A5568; font-size: 1.2rem;">Backend</sup></br>
+  <h2>Backend</h2>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/PayloadCMS-%23FF4500.svg?style=flat-square&logo=payloadcms&logoColor=white" alt="PayloadCMS" style="margin: 5px; height: 30px;">
@@ -31,7 +41,7 @@ ____________________________________________________
   <img src="https://img.shields.io/badge/JavaSpring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" alt="JavaSpring" style="margin: 5px; height: 30px;">
 
   </br></br>
-  <sup style="color: #4A5568; font-size: 1.2rem;">Frontend</sup></br>
+  <h2 align="center">Frontend</h2>
   <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=flat-square&logo=react&logoColor=%2320232A" alt="React.js" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Vue.js-%2335495E.svg?style=flat-square&logo=vue.js&logoColor=%234FC08D" alt="Vue.js" style="margin: 5px; height: 30px;">
@@ -42,7 +52,7 @@ ____________________________________________________
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin: 5px; height: 30px;">
 
   </br></br>
-  <sup style="color: #4A5568; font-size: 1.2rem;">Mobile Development</sup></br>
+  <h2>Mobile Development</h2>
   <img src="https://img.shields.io/badge/Android-%2333DE81.svg?style=flat-square&logo=android&logoColor=white" alt="Android" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/ios-%23000000.svg?style=flat-square&logo=apple&logoColor=white" alt="ios" style="margin: 5px; height: 30px;">
@@ -52,7 +62,7 @@ ____________________________________________________
   <img src="https://img.shields.io/badge/KMP-%23685DDE.svg?style=flat-square&logo=kotlin&logoColor=white" alt="KMP" style="margin: 5px; height: 30px;">
 
   </br></br>
-  <sup style="color: #4A5568; font-size: 1.2rem;">Geographic Information System</sup></br>
+  <h2>Geographic Information System(GIS)</h2>
   <img src="https://img.shields.io/badge/ArcGIS-%23FF9A00.svg?style=flat-square&logo=arcgis&logoColor=white" alt="ArcGIS" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/QGIS-%2364A10E.svg?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Mapbox-%23495CFF.svg?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox" style="margin: 5px; height: 30px;">
@@ -72,7 +82,7 @@ ____________________________________________________
   <img src="https://img.shields.io/badge/ArcGIS%20online-%23339933.svg?style=flat-square&logo=arcgis&logoColor=white" alt="ArcGIS online" style="margin: 5px; height: 30px;">
 
   </br></br>
-  <sup style="color: #4A5568; font-size: 1.2rem;">Database Management</sup></br>
+  <h2>Database Management</h2>
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/PostgreSQL-%234895BF.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 5px; height: 30px;">
@@ -83,7 +93,6 @@ ____________________________________________________
 </div>
 
 </br>
-
 
 ________________________________________________________
 
