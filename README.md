@@ -105,7 +105,7 @@ ________________________________________________________
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:benjamin.gray.dev@gmail.com">
+  <a href="mailto:gonggong624721@gmail.com">
     <img src="https://img.icons8.com/color/52/000000/email.png" width="40" height="40">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
