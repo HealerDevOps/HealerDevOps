@@ -2,14 +2,34 @@
 
 <!-- [![BenjaminGrayDev Nuxter profile](https://nuxters.nuxt.com/card/BenjaminGrayDev/og.png)](https://nuxters.nuxt.com/BenjaminGrayDev) -->
 
+![Header](./HealerProfileHeader.png)
+
+
+</br>
+
+________________________________________________________
+
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=matthiaskrgr&show_icons=true&count_private=true&include_all_commits=true&title_color=2D88FF&text_color=4A5568&icon_color=00A676&bg_color=FFFFFF&border_radius=20&hide_title=true" />
+    </td>
+    <td>
+      <a href="https://github.com/BenjaminGrayDev/SEO-Backlink_mentoring/commits">
+        <img src="https://images.repography.com/60549623/BenjaminGrayDev/SEO-Backlink_mentoring/recent-activity/l8BiIOO9WTV6gMGoj6pVii40gxwLankfoH8aTKzlcDk/ryzbBkQ-HxnMlXwFtWDc1hf_ULhTkBZ7fGx5hochFI0_map.svg" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="" >
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Mobile%20Developer;GIS%20Developer;WEB3%20Developer;&font=Pacifico&center=true&width=850&height=120&color=00A3E0&vCenter=true&size=45">
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=matthiaskrgr&theme=flat&margin-w=18&margin-h=18&column=6&border_radius=15" />
 </p>
 
 
 </br>
+
 
 ________________________________________________________
 
@@ -91,20 +111,6 @@ ________________________________________________________
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" style="margin: 5px; height: 30px;">
 </div>
-
-</br>
-
-________________________________________________________
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matthiaskrgr&show_icons=true&count_private=true&include_all_commits=true&title_color=2D88FF&text_color=4A5568&icon_color=00A676&bg_color=FFFFFF&border_radius=20&hide_title=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matthiaskrgr&theme=flat&margin-w=18&margin-h=18&column=4&border_radius=15" />
-</p>
-
 
 </br>
 
