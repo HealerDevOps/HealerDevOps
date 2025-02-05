@@ -15,11 +15,6 @@ ________________________________________________________
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=matthiaskrgr&show_icons=true&count_private=true&include_all_commits=true&title_color=2D88FF&text_color=4A5568&icon_color=00A676&bg_color=FFFFFF&border_radius=20&hide_title=true" />
     </td>
-    <td>
-      <a href="https://github.com/BenjaminGrayDev/SEO-Backlink_mentoring/commits">
-        <img src="https://images.repography.com/60549623/BenjaminGrayDev/SEO-Backlink_mentoring/recent-activity/l8BiIOO9WTV6gMGoj6pVii40gxwLankfoH8aTKzlcDk/ryzbBkQ-HxnMlXwFtWDc1hf_ULhTkBZ7fGx5hochFI0_map.svg" />
-      </a>
-    </td>
   </tr>
 </table>
 
