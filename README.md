@@ -117,7 +117,7 @@ ________________________________________________________
 ________________________________________________________
 </br>
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 
 <p align="center">
   <a href="mailto:gonggong624721@gmail.com">
